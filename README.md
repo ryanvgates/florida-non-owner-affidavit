@@ -1,9 +1,5 @@
 # Florida Non-Owner Affidavit
 
-This site is designed for anyone who no longer owns a vehicle but that vehicle is still registered with the state of Florida. The real issue comes when you cancel your auto insurance on that vehicle. Due to a lack of insurance, the state of Florida will suspend your Driver's License. You can check your Driver's License's status at [this page.](https://services.flhsmv.gov/DLCheck/)
+This repository has moved to [Codeberg](https://codeberg.org/ryanvgates/florida-non-owner-affidavit).
 
-If you are unable to resolve this issue by turning in the license plate or registration to the Florida Highway Safety and Motor Vehicles(FL HSMV), then you can create a Non-Owner Affidavit and
-
-1. Print it
-2. Sign it 
-3. Fax it to FL HSMV at 850-617-3985.
+![Codeberg Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Codeberg_logo_horizontal.svg/1920px-Codeberg_logo_horizontal.svg.png?_=20250524183759)
